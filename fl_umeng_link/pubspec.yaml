@@ -10,7 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  fl_umeng: ^4.0.1
+  fl_umeng: 
+    path: ./../fl_umeng
 
 dev_dependencies:
   flutter_lints: ^3.0.1
