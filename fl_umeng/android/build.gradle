@@ -51,7 +51,7 @@ android {
 }
 
 dependencies {
-    api 'com.umeng.umsdk:common:9.6.7'
+    api 'com.umeng.umsdk:common:9.7.9'
     api 'com.umeng.umsdk:asms:1.8.0'
     api "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
